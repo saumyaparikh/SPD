@@ -1,6 +1,7 @@
 # SPD
 
-Showing Pandemic Data is a Website that shows Live Covid stats of India. 
+Showing Pandemic Data is a Website that shows Live Covid stats of India.
+Used: HTML, CSS, Bootstrap, ReactJS.
 
 ## [Website](https://showingpandemicdata.herokuapp.com)
 
